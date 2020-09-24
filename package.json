@@ -8,7 +8,7 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "limzykenneth <limzy.kenneth@gmail.com>",
-    "license": "ISC",
+    "license": "BSD-2-Clause",
     "devDependencies": {},
     "dependencies": {
         "lodash.find": "^4.6.0",
