@@ -1,0 +1,17 @@
+{
+    "name": "vimeo-api",
+    "private": true,
+    "version": "0.1.0",
+    "description": "Proxy Vimeo's API response with caching and without exposing API keys",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "limzykenneth <limzy.kenneth@gmail.com>",
+    "license": "ISC",
+    "devDependencies": {},
+    "dependencies": {
+        "lodash.find": "^4.6.0",
+        "serverless-cloudflare-workers": "^1.2.0"
+    }
+}
